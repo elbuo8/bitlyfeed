@@ -1,0 +1,27 @@
+{
+  "name": "bitlyfeed",
+  "version": "0.0.0",
+  "description": "Simple way to see trends using bitly's phrases API",
+  "main": "app.js",
+  "dependencies": {
+    "async": "~0.2.7",
+    "bitly2": "~0.0.3",
+    "express": "~3.1.0",
+    "jade": "~0.29.0",
+    "request": "~2.16.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "bitly",
+    "api",
+    "twitter",
+    "trend",
+    "trending"
+  ],
+  "author": "elbuo8 (Yamil Asusta)",
+  "license": "MIT"
+}

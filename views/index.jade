@@ -1,0 +1,5 @@
+extends layout
+
+block content
+  for tweet in tweets
+    p #{tweet.user} - #{tweet.tweet}
